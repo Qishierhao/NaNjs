@@ -1,2 +1,1 @@
-# NaNjs
-A new Language.XD
+NaN 语言！
